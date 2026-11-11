@@ -3,7 +3,7 @@ Design and verification of a configurable GPIO IP Core with an AMBA APB slave in
 
 
 
-###Project Overview
+-> ### Project Overview
 
 Designed and developed a configurable General-Purpose Input/Output (GPIO) IP Core with an AMBA Advanced Peripheral Bus (APB) slave interface using Verilog HDL.
 
